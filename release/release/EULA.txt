@@ -1,0 +1,4 @@
+END USER LICENSE AGREEMENT (EULA)
+
+This installer is provided for evaluation purposes only.
+Unauthorized copying, distribution, or commercial use is prohibited.
