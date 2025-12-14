@@ -14,3 +14,6 @@ Go to **Releases** and download the latest `PowerFlowAnalysis_Setup_*.exe`.
 
 ## License
 This project is distributed under a proprietary license. The installer is provided for evaluation purposes and includes an EULA.
+
+“The current version is kept as a single-file prototype.
+Modularization into core / utils layers is planned as part of ongoing R&D.”
